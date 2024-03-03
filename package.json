@@ -68,7 +68,7 @@
     "@types/react-redux": "^7.1.25",
     "@types/redux-logger": "^3.0.9",
     "@types/shelljs": "^0.8.8",
-    "@types/sinon-chrome": "^2.2.11",
+    "@types/sinon-chrome": "^2.2.15",
     "@types/wait-on": "^5.2.0",
     "@types/webextension-polyfill": "^0.10.0",
     "@typescript-eslint/eslint-plugin": "^4.33.0",
